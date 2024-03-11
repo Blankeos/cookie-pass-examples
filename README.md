@@ -7,7 +7,8 @@ The purpose of this repo is to demonstrate how cookies are being passed around i
 - [Examples](#examples)
   - [1. ✅ Metaframework with External Backend](#1-%E2%9C%85-metaframework-with-external-backend)
   - [2. ⬜ Same origin](#2-%E2%AC%9C-same-origin)
-  - [3. ⬜ Reverse-Proxy](#3-%E2%AC%9C-reverse-proxy)
+  - [3. ⬜ Reverse-proxy](#3-%E2%AC%9C-reverse-proxy)
+  - [4. ⬜ Same origin HTMX](#4-%E2%AC%9C-same-origin-htmx)
 
 ## Examples
 
@@ -25,6 +26,10 @@ Frontend and Metaframework Backend should be able to pass the same cookies to th
 
 Todo
 
-### 3. ⬜ Reverse-Proxy
+### 3. ⬜ Reverse-proxy
+
+Todo
+
+### 4. ⬜ Same origin HTMX
 
 Todo
